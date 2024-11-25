@@ -1,0 +1,6 @@
+Flask
+pandas
+yagmail
+google-auth
+gspread
+schedule
